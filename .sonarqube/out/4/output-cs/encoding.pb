@@ -1,0 +1,9 @@
+t
+kC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Entities\BasketTests\AddItem.csutf-8q
+hC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Entities\OrderTests\Total.csutf-8Å
+xC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Services\BasketServiceTests\SetQuantities.csutf-8Ç
+yC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Services\BasketServiceTests\TransferBasket.csutf-8É
+zC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Specifications\BasketWithItemsSpecification.csutf-8á
+~C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Specifications\CatalogFilterSpecificationFilter.csutf-8_
+VC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\Builders\AddressBuilder.csutf-8]
+TC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\Builders\OrderBuilder.csutf-8

@@ -1,0 +1,15 @@
+﻿C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Data\CatalogContext.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Data\CatalogContextSeed.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Data\EfRepository.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Data\Migrations\20171018175735_Initial.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Data\Migrations\20171018175735_Initial.Designer.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Data\Migrations\CatalogContextModelSnapshot.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Data\OrderRepository.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Identity\AppIdentityDbContext.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Identity\AppIdentityDbContextSeed.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Identity\ApplicationUser.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Identity\Migrations\20170822214310_InitialIdentityModel.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Identity\Migrations\20170822214310_InitialIdentityModel.Designer.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Identity\Migrations\AppIdentityDbContextModelSnapshot.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Logging\LoggerAdapter.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\src\Infrastructure\Services\EmailSender.cs

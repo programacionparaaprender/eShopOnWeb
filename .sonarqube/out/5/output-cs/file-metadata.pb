@@ -1,0 +1,11 @@
+z
+xC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\WebRazorPages\CustomWebRazorPagesApplicationFactory.csb
+`C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\WebRazorPages\HomePageOnGet.csd
+bC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\WebRazorPages\OrderIndexOnGet.cso
+mC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\Web\Controllers\ApiCatalogControllerList.csm
+kC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\Web\Controllers\CatalogControllerIndex.csr
+pC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\Web\Controllers\CustomWebApplicationFactory.csk
+iC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\Web\Controllers\OrderControllerIndex.csç
+àC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\obj\Debug\netcoreapp2.1\.NETCoreApp,Version=v2.1.AssemblyAttributes.cs}
+yC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\obj\Debug\netcoreapp2.1\FunctionalTests.AssemblyInfo.csx
+tC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\obj\Debug\netcoreapp2.1\FunctionalTests.Program.cs

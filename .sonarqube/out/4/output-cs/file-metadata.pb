@@ -1,0 +1,12 @@
+m
+kC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Entities\BasketTests\AddItem.csj
+hC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Entities\OrderTests\Total.csz
+xC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Services\BasketServiceTests\SetQuantities.cs{
+yC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Services\BasketServiceTests\TransferBasket.cs|
+zC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Specifications\BasketWithItemsSpecification.cs€
+~C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\ApplicationCore\Specifications\CatalogFilterSpecificationFilter.csX
+VC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\Builders\AddressBuilder.csV
+TC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\Builders\OrderBuilder.cs‡
+‚C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\obj\Debug\netcoreapp2.1\.NETCoreApp,Version=v2.1.AssemblyAttributes.csq
+mC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.csl
+hC:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.Program.cs

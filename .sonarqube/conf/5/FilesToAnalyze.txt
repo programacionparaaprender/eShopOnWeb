@@ -1,0 +1,10 @@
+﻿C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\WebRazorPages\CustomWebRazorPagesApplicationFactory.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\WebRazorPages\HomePageOnGet.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\WebRazorPages\OrderIndexOnGet.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\Web\Controllers\ApiCatalogControllerList.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\Web\Controllers\CatalogControllerIndex.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\Web\Controllers\CustomWebApplicationFactory.cs
+C:\Users\Bus209\Documents\htdocs\eShopOnWeb\tests\FunctionalTests\Web\Controllers\OrderControllerIndex.cs
+C:\Users\Bus209\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Bus209\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Bus209\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll

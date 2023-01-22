@@ -1,0 +1,1127 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.0.0.0",
+        "fileVersion": "4.0.1-1.21569.2 (52021b4b)",
+        "semanticVersion": "4.0.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Program.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 18,
+                  "endLine": 12,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'LoginWith2faModel' to match camel case naming rules, consider using 'LoginWith2FaModel'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/LoginWith2fa.cshtml.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 18,
+                  "endLine": 12,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Startup.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 13,
+                  "endLine": 37,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Disable2faModel' to match camel case naming rules, consider using 'Disable2FaModel'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Disable2fa.cshtml.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 18,
+                  "endLine": 11,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/EnableAuthenticator.cshtml.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 54,
+                  "endLine": 20,
+                  "endColumn": 109
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '_userManager' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/ResetAuthenticator.cshtml.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 38,
+                  "endLine": 13,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '_logger' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/ResetAuthenticator.cshtml.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 42,
+                  "endLine": 14,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field 'AuthenicatorUriFormat'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/TwoFactorAuthentication.cshtml.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 9,
+                  "endLine": 13,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/TwoFactorAuthentication.cshtml.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 54,
+                  "endLine": 13,
+                  "endColumn": 100
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_logger' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/TwoFactorAuthentication.cshtml.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 64,
+                  "endLine": 17,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_signInManager' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/TwoFactorAuthentication.cshtml.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 57,
+                  "endLine": 16,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field '_basketSessionKey'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Basket/Index.cshtml.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 9,
+                  "endLine": 18,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_uriComposer' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Basket/Checkout.cshtml.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 39,
+                  "endLine": 19,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/LoginWith2fa.cshtml.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 23,
+                  "endLine": 50,
+                  "endColumn": 98
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/LoginWith2fa.cshtml.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 23,
+                  "endLine": 69,
+                  "endColumn": 98
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_uriComposer' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Basket/Index.cshtml.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 39,
+                  "endLine": 19,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/LoginWithRecoveryCode.cshtml.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 23,
+                  "endLine": 44,
+                  "endColumn": 98
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1186",
+          "level": "warning",
+          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Basket/Checkout.cshtml.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 21,
+                  "endLine": 40,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/LoginWithRecoveryCode.cshtml.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 23,
+                  "endLine": 62,
+                  "endColumn": 98
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Disable2fa.cshtml.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 23,
+                  "endLine": 29,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Disable2fa.cshtml.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 23,
+                  "endLine": 34,
+                  "endColumn": 151
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/TwoFactorAuthentication.cshtml.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 23,
+                  "endLine": 41,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/ChangePassword.cshtml.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 23,
+                  "endLine": 58,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/ChangePassword.cshtml.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 23,
+                  "endLine": 80,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Disable2fa.cshtml.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 23,
+                  "endLine": 45,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Disable2fa.cshtml.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 23,
+                  "endLine": 51,
+                  "endColumn": 142
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/SetPassword.cshtml.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 23,
+                  "endLine": 72,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/EnableAuthenticator.cshtml.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 23,
+                  "endLine": 53,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/SetPassword.cshtml.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 23,
+                  "endLine": 49,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/EnableAuthenticator.cshtml.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 23,
+                  "endLine": 71,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove this unused 'message' local variable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Startup.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 25,
+                  "endLine": 66,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 23,
+                  "endLine": 32,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 23,
+                  "endLine": 37,
+                  "endColumn": 144
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Index.cshtml.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 23,
+                  "endLine": 54,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/ResetAuthenticator.cshtml.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 23,
+                  "endLine": 28,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'brandID' to 'brandId' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Services/CachedCatalogService.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 101,
+                  "endLine": 36,
+                  "endColumn": 108
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Index.cshtml.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 23,
+                  "endLine": 80,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Index.cshtml.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 27,
+                  "endLine": 88,
+                  "endColumn": 125
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Index.cshtml.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 27,
+                  "endLine": 97,
+                  "endColumn": 132
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/ResetAuthenticator.cshtml.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 23,
+                  "endLine": 39,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.ApplicationException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Pages/Account/Manage/Index.cshtml.cs",
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 23,
+                  "endLine": 114,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Startup.cs",
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 41,
+                  "endLine": 132,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Startup.cs",
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 57,
+                  "endLine": 113,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Bus209/Documents/htdocs/eShopOnWeb/src/WebRazorPages/Startup.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 21,
+                  "endLine": 145,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in camel case",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are camel cased. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1075": {
+          "id": "S1075",
+          "shortDescription": "URIs should not be hardcoded",
+          "fullDescription": "Hardcoding a URI makes it difficult to test a program: path literals are not always portable across operating systems, a given absolute path may not exist on a specific test environment, a specified Internet URL may not be available when executing the tests, production environment filesystems usually differ from the development environment, ...etc. For all those reasons, a URI should never be hardcoded. Instead, it should be replaced by customizable parameter.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1075",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated. Even abstract utility classes, which can be extended, should not have public constructors.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S112": {
+          "id": "S112",
+          "shortDescription": "General exceptions should never be thrown",
+          "fullDescription": "Throwing such general exceptions as Exception, SystemException, ApplicationException, IndexOutOfRangeException, NullReferenceException, OutOfMemoryException and ExecutionEngineException prevents calling methods from handling true, system-generated exceptions differently than application-generated errors. ",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-112",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "private or internal types or private members that are never executed or referenced are dead code: unnecessary, inoperative code that should be removed. Cleaning out dead code decreases the size of the maintained codebase, making it easier to understand the program and preventing bugs from being introduced.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1144",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1186": {
+          "id": "S1186",
+          "shortDescription": "Methods should not be empty",
+          "fullDescription": "There are several reasons for a method not to have a method body:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1186",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be \"commented out\"",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1450": {
+          "id": "S1450",
+          "shortDescription": "Private fields only used as local variables in methods should become local variables",
+          "fullDescription": "When the value of a private field is always assigned to in a class' methods before being read, then it is not being used to store class information. Therefore, it should become a local variable in the relevant methods to prevent any misunderstanding.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1450",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that's not marked readonly but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S927": {
+          "id": "S927",
+          "shortDescription": "parameter names should match base declaration and other partial definitions",
+          "fullDescription": "The name of a parameter in an externally visible method override does not match the name of the parameter in the base declaration of the method, or the name of the parameter in the interface declaration of the method or the name of any other partial definition.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-927",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
